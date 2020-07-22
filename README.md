@@ -1,3 +1,5 @@
+![package_test](https://github.com/sraorao/ci_course_start/workflows/package_test/badge.svg)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
