@@ -1,5 +1,6 @@
 ![package_test](https://github.com/sraorao/ci_course_start/workflows/package_test/badge.svg)
 [![codecov](https://codecov.io/gh/sraorao/ci_course_start/branch/master/graph/badge.svg)](https://codecov.io/gh/sraorao/ci_course_start)
+[![Documentation Status](https://readthedocs.org/projects/ci-course-srao/badge/?version=latest)](https://ci-course-srao.readthedocs.io/en/latest/?badge=latest)
 
 # OxRSE Continuous Integration course
 
