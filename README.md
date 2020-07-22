@@ -1,4 +1,5 @@
 ![package_test](https://github.com/sraorao/ci_course_start/workflows/package_test/badge.svg)
+[![codecov](https://codecov.io/gh/sraorao/ci_course_start/branch/master/graph/badge.svg)](https://codecov.io/gh/sraorao/ci_course_start)
 
 # OxRSE Continuous Integration course
 
